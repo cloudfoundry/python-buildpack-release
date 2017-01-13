@@ -6,4 +6,6 @@ builds:
     version: 1.5.12
   80e9be89-6133-464b-a8c3-3e94e23fda06:
     version: 1.5.13
+  68274244-8002-40f2-a81a-826235321b20:
+    version: 1.5.14
 format-version: '2'
