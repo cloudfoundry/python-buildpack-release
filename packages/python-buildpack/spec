@@ -1,4 +1,4 @@
 ---
 name: python-buildpack
 files:
-- python-buildpack/python_buildpack-v*.zip
+- python-buildpack/python?buildpack-v*.zip
