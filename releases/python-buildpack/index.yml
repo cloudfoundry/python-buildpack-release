@@ -20,4 +20,6 @@ builds:
     version: 1.5.19
   4ce040b1-0109-4bd3-93cd-b40c0223e55f:
     version: 1.5.20
+  88f7170c-2854-47ec-ae19-db94bb007dcc:
+    version: 1.5.22
 format-version: '2'
