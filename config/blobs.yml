@@ -1,5 +1,5 @@
 ---
-python-buildpack/python-buildpack-v1.5.26.zip:
-  object_id: c21a34df-5c56-44b4-a846-9df38b0e0c9d
-  sha: 3b0c5213e8b24f0275697f15d4c3faa471e91bf4
-  size: 81401
+python-buildpack/python-buildpack-v1.6.1.zip:
+  object_id: d3a7c808-48c5-49fc-9447-edba0a871210
+  sha: b536c4afcd0af00aede3a888088e06d04c61896c
+  size: 3855509
