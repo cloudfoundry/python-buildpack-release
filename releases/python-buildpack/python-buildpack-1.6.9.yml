@@ -1,0 +1,19 @@
+name: python-buildpack
+version: 1.6.9
+commit_hash: 5f9a16d
+uncommitted_changes: false
+jobs:
+- name: python-buildpack
+  version: c5421aef7767e282e2191887b9379b03e9db4b2f
+  fingerprint: c5421aef7767e282e2191887b9379b03e9db4b2f
+  sha1: 66cb6ea31bbe1c5c968e939bc2d859f3dc6a7a1a
+packages:
+- name: python-buildpack
+  version: f91fe26c667bc2134fe8dd78ff74e61d2fbeb4c4
+  fingerprint: f91fe26c667bc2134fe8dd78ff74e61d2fbeb4c4
+  sha1: 6eef186d8ded2d47551cee0a365fd009915f1a65
+  dependencies: []
+license:
+  version: 43f6bde9e1e12057f8928e562743707e56f16531
+  fingerprint: 43f6bde9e1e12057f8928e562743707e56f16531
+  sha1: 1570f8dd2b1658d5b2a4c682f5463872ba0f37bd
