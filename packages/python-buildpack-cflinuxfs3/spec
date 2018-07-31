@@ -1,0 +1,4 @@
+---
+name: python-buildpack-cflinuxfs3
+files:
+- python-buildpack/python?buildpack-cflinuxfs3-v*.zip

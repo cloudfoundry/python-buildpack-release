@@ -1,0 +1,4 @@
+---
+name: python-buildpack-cflinuxfs2
+files:
+- python-buildpack/python?buildpack-cflinuxfs2-v*.zip

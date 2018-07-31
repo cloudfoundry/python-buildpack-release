@@ -3,6 +3,7 @@ name: python-buildpack
 templates: {}
 
 packages:
-- python-buildpack
+- python-buildpack-cflinuxfs2
+- python-buildpack-cflinuxfs3
 
 properties: {}
