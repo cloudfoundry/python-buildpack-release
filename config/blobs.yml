@@ -1,4 +1,8 @@
-python-buildpack/python-buildpack-v1.6.18.zip:
-  size: 3914271
-  object_id: 19524187-fd0c-48ba-7a99-a7a8578be327
-  sha: 1688d754a4fc4810d44c2038c86a757bcfdc5828
+python-buildpack/python-buildpack-cflinuxfs2-v1.6.20.zip:
+  size: 3914085
+  object_id: b2ae76fa-4837-4168-72e8-0d5c541e3532
+  sha: 19c13c8af2c90a43b6f29b5b710707bddac3aad8
+python-buildpack/python-buildpack-cflinuxfs3-v1.6.20.zip:
+  size: 3913930
+  object_id: 7b1cb72a-31ff-4e53-5239-24633b142391
+  sha: bb77267a0b4cd4e5f1f72bfc06452619798355eb
