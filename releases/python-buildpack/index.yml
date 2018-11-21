@@ -55,6 +55,8 @@ builds:
     version: 1.5.19
   dd36c573-e059-4e6a-ad14-8f68f63600b6:
     version: 1.5.24
+  e4cd8697-e145-473e-5e7d-0ba60daf4c67:
+    version: 1.6.23
   e617855b-b785-488d-82d7-bfaf1d7807ac:
     version: 1.5.26
 format-version: "2"
