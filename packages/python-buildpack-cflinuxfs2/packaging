@@ -1,2 +1,0 @@
-    set -e -x
-    cp python-buildpack/python?buildpack-*.zip ${BOSH_INSTALL_TARGET}
