@@ -1,0 +1,21 @@
+name: python-buildpack
+version: 1.7.6
+commit_hash: 6ccc646
+uncommitted_changes: false
+jobs:
+- name: python-buildpack
+  version: 0019a7704dd7b499b3657decfaa45598f4d55ffbb79c936f5ae0ec58c19e96fb
+  fingerprint: 0019a7704dd7b499b3657decfaa45598f4d55ffbb79c936f5ae0ec58c19e96fb
+  sha1: sha256:9eb75d323cb0bb5e6e193b7c5961274405c9d43e1a513a73093fa459cc960517
+  packages:
+  - python-buildpack-cflinuxfs3
+packages:
+- name: python-buildpack-cflinuxfs3
+  version: 9ddf8510a1e886bce00514f4201ff07127ec8229f0d0ab2ba10396badb5ffa5e
+  fingerprint: 9ddf8510a1e886bce00514f4201ff07127ec8229f0d0ab2ba10396badb5ffa5e
+  sha1: sha256:f5055a3e98bc510fda378994c50855506f4a91770851810f287560fc612dd0ef
+  dependencies: []
+license:
+  version: db4c77b7cef4888832a6e02de3f2f336a0aaa186eaaa5fb9ad84631ce64a1063
+  fingerprint: db4c77b7cef4888832a6e02de3f2f336a0aaa186eaaa5fb9ad84631ce64a1063
+  sha1: sha256:62d508cdb442644b7f88770c182ce72107d5633d16fec8507057f9eb3990d885
