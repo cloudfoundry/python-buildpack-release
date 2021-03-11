@@ -119,4 +119,6 @@ builds:
     version: 1.5.26
   ef492603-8fbd-4faa-51fe-9afaec30174e:
     version: 1.6.30
+  f19f85b1-3e4e-4658-5a72-2c86ff4e9b22:
+    version: 1.7.33
 format-version: "2"
