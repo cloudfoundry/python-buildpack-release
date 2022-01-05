@@ -1,4 +1,4 @@
-python-buildpack/python_buildpack-cflinuxfs3-v1.7.48.zip:
-  size: 4742768
-  object_id: 5dad48e3-2f25-432e-6d04-8916711e20c1
-  sha: sha256:bae339c61084ac17fceb80839a6bedb67f9c3b17b3db35eda7271439caab926d
+python-buildpack/python_buildpack-cflinuxfs3-v1.7.49.zip:
+  size: 4742799
+  object_id: 3c104e2f-b345-4c9d-5589-592354800f99
+  sha: sha256:c6b229d4571be4b314a5607142b1565e61de58bd9b22594031608107ade0ab47
