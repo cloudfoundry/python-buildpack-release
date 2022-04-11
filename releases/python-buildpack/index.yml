@@ -137,6 +137,8 @@ builds:
     version: 1.7.37
   d6443cd8-6168-43c8-5f63-d0a2a0a8a3ce:
     version: 1.7.2
+  db6f2524-7afb-4547-7049-b6ec23892ecc:
+    version: 1.7.53
   dd0ab2dc-2136-4f25-809e-0e914cdc9c7d:
     version: 1.5.19
   dd36c573-e059-4e6a-ad14-8f68f63600b6:
