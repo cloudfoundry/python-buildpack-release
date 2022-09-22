@@ -4,5 +4,6 @@ templates: {}
 
 packages:
 - python-buildpack-cflinuxfs3
+- python-buildpack-cflinuxfs4
 
 properties: {}
