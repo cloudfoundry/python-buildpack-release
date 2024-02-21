@@ -1,8 +1,8 @@
-python-buildpack/python_buildpack-cflinuxfs3-v1.8.19.zip:
-  size: 5195673
-  object_id: 58e72e91-1fef-49be-41b6-1e89ae6e5b0d
-  sha: sha256:d2e1d55da68abd203bffc85bc8098b9cb7a677a4485c5e50f63e98a1f06ba38c
-python-buildpack/python_buildpack-cflinuxfs4-v1.8.19.zip:
-  size: 5195666
-  object_id: 81f73d42-0733-4ed4-7d2c-aaef79667ed0
-  sha: sha256:a02b0d8401d81dd3a61c2fc117cf3e9f699d4a166c3e56451ec6c38b57fff9c0
+python-buildpack/python_buildpack-cflinuxfs3-v1.8.20.zip:
+  size: 5343974
+  object_id: dc618362-d400-4541-694d-47f452df557a
+  sha: sha256:10f42336e908d35ee50d97784070836450eb3f8223cdd180344a24c12267b57a
+python-buildpack/python_buildpack-cflinuxfs4-v1.8.20.zip:
+  size: 5343972
+  object_id: d0c1c196-b2fc-4729-5bab-77cdf2c1a934
+  sha: sha256:e962445617664aae9c29e597b6954bf6823f59425d82423692c344894fa31b4e
