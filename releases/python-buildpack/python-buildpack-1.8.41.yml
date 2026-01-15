@@ -1,0 +1,21 @@
+name: python-buildpack
+version: 1.8.41
+commit_hash: f090d60
+uncommitted_changes: false
+jobs:
+- name: python-buildpack
+  version: 4a9d5e08f0664affc2803080ac1e39b88bc0c31a644f62e9853cbfc08541309b
+  fingerprint: 4a9d5e08f0664affc2803080ac1e39b88bc0c31a644f62e9853cbfc08541309b
+  sha1: sha256:a485251b4ee48ef1f2523563f39204ca049b8c59059afbdb12824b3c0a1a6e17
+  packages:
+  - python-buildpack-cflinuxfs4
+packages:
+- name: python-buildpack-cflinuxfs4
+  version: e30a25876b0069adb8f8dae14dc686ca97a8bde92d48bab59db44f182124292a
+  fingerprint: e30a25876b0069adb8f8dae14dc686ca97a8bde92d48bab59db44f182124292a
+  sha1: sha256:1a88df7ee368f73401865a788a62834eb4186e535a7911b47c5f2aa9e072fffe
+  dependencies: []
+license:
+  version: db4c77b7cef4888832a6e02de3f2f336a0aaa186eaaa5fb9ad84631ce64a1063
+  fingerprint: db4c77b7cef4888832a6e02de3f2f336a0aaa186eaaa5fb9ad84631ce64a1063
+  sha1: sha256:62d508cdb442644b7f88770c182ce72107d5633d16fec8507057f9eb3990d885
