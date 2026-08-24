@@ -1,0 +1,27 @@
+name: python-buildpack
+version: 1.9.4
+commit_hash: f2f2fd9
+uncommitted_changes: false
+jobs:
+- name: python-buildpack
+  version: baa763356fa9d3a422c5d070c98b1f6c217d5d6e0a544d6f530d68057b6fbcf1
+  fingerprint: baa763356fa9d3a422c5d070c98b1f6c217d5d6e0a544d6f530d68057b6fbcf1
+  sha1: sha256:649a3dd1cef53e6f6ce4a2b996bdd8863d7a5a902e8536b4f1da7873f1241e67
+  packages:
+  - python-buildpack-cflinuxfs5
+  - python-buildpack-cflinuxfs4
+packages:
+- name: python-buildpack-cflinuxfs4
+  version: 1b8ba5a383a55754b85c5551ce4a25ffcb052802c7576aed516fb369eb73f8b1
+  fingerprint: 1b8ba5a383a55754b85c5551ce4a25ffcb052802c7576aed516fb369eb73f8b1
+  sha1: sha256:5dc7ba243bbf3bd2937670784bdf1d36beb2ce669b335ebe48368d6645ee1f52
+  dependencies: []
+- name: python-buildpack-cflinuxfs5
+  version: 0932ef5853e4418a213bf63f8000302e68e5342ebc0cb0a0fe9fd4cd708f1051
+  fingerprint: 0932ef5853e4418a213bf63f8000302e68e5342ebc0cb0a0fe9fd4cd708f1051
+  sha1: sha256:eb68efb87e64348fdbe54ad9dad91e5524439143f57ef9c450e7d4b320b60a84
+  dependencies: []
+license:
+  version: db4c77b7cef4888832a6e02de3f2f336a0aaa186eaaa5fb9ad84631ce64a1063
+  fingerprint: db4c77b7cef4888832a6e02de3f2f336a0aaa186eaaa5fb9ad84631ce64a1063
+  sha1: sha256:62d508cdb442644b7f88770c182ce72107d5633d16fec8507057f9eb3990d885
